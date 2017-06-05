@@ -6,7 +6,7 @@
   "active"     : 1,
   "order"      : 0,
   "providers"  : [
-    "App\\Components\\Siegnor\\Providers\\AssignServiceProvider"
+    "App\\Components\\Siegnor\\Providers\\SiegnorServiceProvider"
   ],
   "aliases"    : {},
   "files"      : [
