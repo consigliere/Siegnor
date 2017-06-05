@@ -13,7 +13,7 @@
     }
   },
   "require"    : {
-    "tcg/voyager"          : "0.11.*",
-    "laravel/passport"     : "^2.0"
+    "tcg/voyager"     : "0.11.*",
+    "laravel/passport": "^2.0"
   }
 }
