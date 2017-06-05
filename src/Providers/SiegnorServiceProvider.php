@@ -4,7 +4,7 @@ namespace App\Components\Siegnor\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-class AssignServiceProvider extends ServiceProvider
+class SiegnorServiceProvider extends ServiceProvider
 {
     /**
      * Indicates if loading of the provider is deferred.
