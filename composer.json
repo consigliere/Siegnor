@@ -13,7 +13,9 @@
     }
   },
   "require"    : {
-    "tcg/voyager"     : "0.11.*",
-    "laravel/passport": "^2.0"
+    "illuminate/support"  : "5.4.*",
+    "illuminate/contracts": "5.4.*",
+    "tcg/voyager"         : "0.11.*",
+    "laravel/passport"    : "^2.0"
   }
 }
