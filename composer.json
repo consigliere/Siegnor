@@ -15,7 +15,7 @@
   "require"    : {
     "illuminate/support"  : "5.4.*",
     "illuminate/contracts": "5.4.*",
-    "tcg/voyager"         : "0.11.*",
-    "laravel/passport"    : "^2.0"
+    "laravel/passport": "^4.0",
+    "tcg/voyager": "^1.0"
   }
 }
