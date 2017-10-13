@@ -38,7 +38,7 @@ class SiegnorServiceProvider extends ServiceProvider
         $this->app->register(\TCG\Voyager\VoyagerServiceProvider::class);
 
         // register passport
-        $this->app->register(\Laravel\Passport\PassportServiceProvider::class);
+        // $this->app->register(\Laravel\Passport\PassportServiceProvider::class);
     }
 
     /**
