@@ -14,7 +14,6 @@
   },
   "require"    : {
     "illuminate/support"  : "5.5.*",
-    "illuminate/contracts": "5.5.*",
-    "tcg/voyager"         : "^1.0"
+    "illuminate/contracts": "5.5.*"
   }
 }
