@@ -64,9 +64,4 @@ class SiegnorController extends Controller
     public function destroy()
     {
     }
-
-    public function oauth2()
-    {
-        return view('siegnor::oauth2');
-    }
 }
